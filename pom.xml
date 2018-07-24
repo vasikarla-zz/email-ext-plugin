@@ -117,7 +117,7 @@
         <dependency>
             <groupId>org.kohsuke</groupId>
             <artifactId>groovy-sandbox</artifactId>
-            <version>1.0</version>
+            <version>1.12</version>
         </dependency>
         <dependency>
             <groupId>org.jsoup</groupId>
